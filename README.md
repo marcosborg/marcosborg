@@ -25,7 +25,7 @@ Use of CSS
 Programming of industrial auto- mats
 # **ABOUT ME**
 
-Programming is my passion. I dedicated myself to a more WEB-orien- ted area, as I understood that the future of programming would be in the CLOUD languages.
+Programming is my passion. I dedicated myself to a more WEB-oriented area, as I understood that the future of programming would be in the CLOUD languages.
 
 Today, I gather skills that allow me to carry out complex projects on my own or as part of a team.
 
